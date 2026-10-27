@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jcobar29.github.io/createdbyjc/sitemap.xml
